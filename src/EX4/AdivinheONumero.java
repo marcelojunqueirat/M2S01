@@ -6,7 +6,7 @@ public class AdivinheONumero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int aleatorio = (int) Math.round(Math.random() * (5-1) + 1);
-        System.out.println(aleatorio);
+        //System.out.println(aleatorio);
 
         System.out.println("Adivinhe qual número de 1 a 5 eu estou pensando:");
         int palpite = Integer.parseInt(sc.nextLine());
