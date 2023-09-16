@@ -1,4 +1,4 @@
-package M2S01;
+package EX1;
 
 import java.util.Scanner;
 
